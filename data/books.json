@@ -1,0 +1,28 @@
+{
+  "Fiqh": {
+    "Hanafi": [
+      "Al-Hidayah",
+      "Mukhtasar al-Quduri"
+    ],
+    "Shafi'i": [
+      "Al-Umm"
+    ]
+  },
+  "Hadith": {
+    "Sahih": [
+      "Sahih al-Bukhari",
+      "Sahih Muslim"
+    ]
+  },
+  "Aqidah": {
+    "Ashari": [
+      "Al-Irshad ila Qawati al-Adillah"
+    ],
+    "Maturidi": [
+      "Kitab at-Tawhid"
+    ],
+    "Athari": [
+      "Al-Ibana 'an Usul ad-Diyanah"
+    ]
+  }
+}
