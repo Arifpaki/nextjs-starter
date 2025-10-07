@@ -1,8 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Enable static export output so we can generate an `out` directory for hosting
-  output: "export",
+  // Default Next.js config; Vercel will handle build and serving automatically.
 };
 
 export default nextConfig;
